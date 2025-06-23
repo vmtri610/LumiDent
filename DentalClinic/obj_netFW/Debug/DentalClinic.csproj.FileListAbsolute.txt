@@ -1,0 +1,1 @@
+C:\Users\Public\Documents\DevExpress Demos 22.2\Components\WinForms\DevExpress.DentalClinic\LumiDent\DentalClinic\obj_netFW\Debug\DentalClinic.csproj.AssemblyReference.cache
